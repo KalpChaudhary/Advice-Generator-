@@ -1,0 +1,14 @@
+{
+  "name": "advice_generator",
+  "version": "1.0.0",
+  "description": "Advice generator Frontend mentor task",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Kalp Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.3.2"
+  }
+}
